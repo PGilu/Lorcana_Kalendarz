@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Kalendarz Eventów Lorcana</title>
+  <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.18/index.global.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    #calendar { max-width: 1200px; margin: auto; }
+  </style>
+</head>
+<body>
+  <h1>📅 Kalendarz Eventów Lorcana</h1>
+  <div id="calendar"></div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      try {
+        const res = await fetch('events.json?_=' + Date.now());
+        const data = await res.json();
+        console.log('Pobrane eventy:', data);
+
+        const events = data.map(ev => {
+          const startDate = ev.start || ev.start_datetime;
+          return {
+            title: ev.name + (ev.store ? ` @ ${ev.store.name}` : ''),
+            start: startDate,
+            url: ev.url || null,
+            extendedProps: { address: ev.store?.full_address || '' }
+          };
+        });
+
+        console.log('Przekonwertowane eventy:', events);
+
+        const calendar = new FullCalendar.Calendar(document.getElementById('calendar'), {
+          initialView: 'dayGridMonth',
+          locale: 'pl',
+          height: 'auto',
+          events: events,
+          eventClick: info => {
+            info.jsEvent.preventDefault();
+            if (info.event.url) {
+              window.open(info.event.url, '_blank');
+            } else {
+              alert(
+                ` ${info.event.title}\n` +
+                ` ${info.event.start.toLocaleString()}\n` +
+                ` ${info.event.extendedProps.address}`
+              );
+            }
+          }
+        });
+
+        calendar.render();
+
+      } catch (err) {
+        console.error('Błąd podczas ładowania kalendarza:', err);
+      }
+    });
+  </script>
+</body>
+</html>
