@@ -1,23 +1,5 @@
 [
   {
-    "name": "Disney Lorcana TCG - Weekly Play Reign of Jafar #5",
-    "start": "2025-07-29T17:00:00",
-    "store": {
-      "name": "GryPlanszowe24.pl",
-      "full_address": "8 \u015Awi\u0119tego Rocha, Building, Cz\u0119stochowa, Wojew\u00F3dztwo \u015Bl\u0105skie, 42-202, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/170468"
-  },
-  {
-    "name": "Lorcana Weekly Vanaheim 29.07.2025",
-    "start": "2025-07-29T17:30:00",
-    "store": {
-      "name": "Vanaheim",
-      "full_address": "Lubicz, Jun-34, Krak\u00F3w, Wojew\u00F3dztwo ma\u0142opolskie, 31-512, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/170763"
-  },
-  {
     "name": "Core Constructed Bielsko",
     "start": "2025-07-30T17:15:00",
     "store": {
@@ -81,15 +63,6 @@
     "url": "https://tcg.ravensburgerplay.com/events/160107"
   },
   {
-    "name": "Reign of Jafar - Set Championship at Centrum MTG",
-    "start": "2025-08-02T12:00:00",
-    "store": {
-      "name": "CENTRUM MTG",
-      "full_address": "1 Maria\u0144ska, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-123, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/162234"
-  },
-  {
     "name": "Reign of Jafar - Set Championship Gry i Karty",
     "start": "2025-08-02T12:00:00",
     "store": {
@@ -97,6 +70,15 @@
       "full_address": "9 Karmelicka, Stare Miasto, Wojew\u00F3dztwo ma\u0142opolskie, 33-332, PL"
     },
     "url": "https://tcg.ravensburgerplay.com/events/163179"
+  },
+  {
+    "name": "Reign of Jafar - Set Championship at Centrum MTG",
+    "start": "2025-08-02T12:00:00",
+    "store": {
+      "name": "CENTRUM MTG",
+      "full_address": "1 Maria\u0144ska, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-123, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/162234"
   },
   {
     "name": "Lorcana w Gralni - Reign of Jafar - Set Championship",
@@ -162,15 +144,6 @@
     "url": "https://tcg.ravensburgerplay.com/events/166643"
   },
   {
-    "name": "sobota Morning Reign of Jafar - Set Championship",
-    "start": "2025-08-09T10:00:00",
-    "store": {
-      "name": "Centrum gier Pegaz",
-      "full_address": "6 Pod Blankami, 6/3a, BYDGOSZCZ, Wojew\u00F3dztwo kujawsko-pomorskie, 85-034, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/167085"
-  },
-  {
     "name": "Lorcana Reign of Jafar Championship w Strefie MTG",
     "start": "2025-08-09T10:00:00",
     "store": {
@@ -178,6 +151,15 @@
       "full_address": "30a Polna, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-635, PL"
     },
     "url": "https://tcg.ravensburgerplay.com/events/160028"
+  },
+  {
+    "name": "sobota Morning Reign of Jafar - Set Championship",
+    "start": "2025-08-09T10:00:00",
+    "store": {
+      "name": "Centrum gier Pegaz",
+      "full_address": "6 Pod Blankami, 6/3a, BYDGOSZCZ, Wojew\u00F3dztwo kujawsko-pomorskie, 85-034, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/167085"
   },
   {
     "name": "Set Championship S08 Reign of Jafar w MagicCafe",
@@ -333,15 +315,6 @@
     "url": "https://tcg.ravensburgerplay.com/events/166923"
   },
   {
-    "name": "Core Constructed Bielsko",
-    "start": "2025-08-30T11:45:00",
-    "store": {
-      "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
-      "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/160115"
-  },
-  {
     "name": "Prerelease Fabled #2 (Sealed)",
     "start": "2025-08-30T11:45:00",
     "store": {
@@ -349,6 +322,15 @@
       "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
     },
     "url": "https://tcg.ravensburgerplay.com/events/166924"
+  },
+  {
+    "name": "Core Constructed Bielsko",
+    "start": "2025-08-30T11:45:00",
+    "store": {
+      "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
+      "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/160115"
   },
   {
     "name": "Prerelease Fabled #3 (Sealed)",
