@@ -132,7 +132,7 @@
           eventTimeFormat:{
             hour: '2-digit',
             minute: '2-digit',
-            hour12:false
+            hour12: false
           },
           eventClick: info => {
             info.jsEvent.preventDefault();
@@ -145,6 +145,39 @@
                 ` ${info.event.extendedProps.address}`
               );
             }
+          },
+          eventDidMount: function(info) {
+            const tooltip = document.createElement('div');
+            tooltip.innerHTML = `
+              <strong>${info.event.title}</strong><br>
+              ${info.event.extendedProps.address}
+            `;
+            tooltip.style.position = 'absolute';
+            tooltip.style.zIndex = 1000;
+            tooltip.style.background = '#fff';
+            tooltip.style.border = '1px solid #ccc';
+            tooltip.style.padding = '8px';
+            tooltip.style.borderRadius = '5px';
+            tooltip.style.boxShadow = '0 2px 10px rgba(0,0,0,0.1)';
+            tooltip.style.display = 'none';
+            tooltip.classList.add('custom-tooltip');
+
+            document.body.appendChild(tooltip);
+
+            info.el.addEventListener('mouseenter', (e) => {
+              tooltip.style.left = e.pageX + 10 + 'px';
+              tooltip.style.top = e.pageY + 10 + 'px';
+              tooltip.style.display = 'block';
+            });
+
+            info.el.addEventListener('mousemove', (e) => {
+              tooltip.style.left = e.pageX + 10 + 'px';
+              tooltip.style.top = e.pageY + 10 + 'px';
+            });
+
+            info.el.addEventListener('mouseleave', () => {
+              tooltip.style.display = 'none';
+            });
           }
         });
 
