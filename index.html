@@ -5,6 +5,10 @@
   <title>Kalendarz Eventów Lorcana</title>
   <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.18/index.global.min.js"></script>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <!-- Bootstrap CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
   <style>
     body {
       font-family: 'Roboto', sans-serif;
@@ -75,6 +79,12 @@
     .fc-daygrid-event-dot {
       border-color: #4a90e2;
     }
+
+    
+    .custom-tooltip {
+      pointer-events: none;
+      transition: opacity .1s;
+    }
   </style>
 </head>
 <body>
@@ -91,12 +101,63 @@
 
   <div id="calendar"></div>
 
+  
+  <div class="modal fade" id="eventModal" tabindex="-1" aria-labelledby="eventModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="eventModalLabel">Szczegóły wydarzenia</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Zamknij"></button>
+        </div>
+        <div class="modal-body">
+          <p id="modal-title" class="fw-bold mb-1"></p>
+          <p id="modal-date" class="mb-1"></p>
+          <p id="modal-address" class="mb-1"></p>
+          <div id="modal-link-wrapper"></div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Zamknij</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <script>
+    const isTouch = ('ontouchstart' in window) || navigator.maxTouchPoints > 0;
+
+    function formatDateVerbose(dt) {
+      try {
+        return dt.toLocaleString('pl-PL', {
+          year: 'numeric', month: '2-digit', day: '2-digit',
+          hour: '2-digit', minute: '2-digit'
+        });
+      } catch {
+        return dt.toString();
+      }
+    }
+
+    function showModalForEvent(event) {
+      document.getElementById('modal-title').textContent = event.title;
+      document.getElementById('modal-date').textContent = formatDateVerbose(event.start);
+      document.getElementById('modal-address').textContent = event.extendedProps.address || '';
+      const linkWrapper = document.getElementById('modal-link-wrapper');
+      linkWrapper.innerHTML = '';
+      if (event.url) {
+        const a = document.createElement('a');
+        a.href = event.url;
+        a.target = '_blank';
+        a.textContent = 'Przejdź do wydarzenia';
+        a.className = 'btn btn-primary btn-sm';
+        linkWrapper.appendChild(a);
+      }
+      const modal = new bootstrap.Modal(document.getElementById('eventModal'));
+      modal.show();
+    }
+
     document.addEventListener('DOMContentLoaded', async () => {
       try {
         const res = await fetch('events.json?_=' + Date.now());
         const data = await res.json();
-        console.log('Pobrane eventy:', data);
 
         const allEvents = data.map(ev => {
           const startDate = ev.start || ev.start_datetime;
@@ -129,24 +190,31 @@
           firstDay: 1,
           events: allEvents,
           displayEventTime: true,
-          eventTimeFormat:{
+          eventTimeFormat: {
             hour: '2-digit',
             minute: '2-digit',
-            hour12:false
+            hour12: false
           },
           eventClick: info => {
             info.jsEvent.preventDefault();
-            if (info.event.url) {
-              window.open(info.event.url, '_blank');
+            if (isTouch) {
+             
+              showModalForEvent(info.event);
             } else {
-              alert(
-                ` ${info.event.title}\n` +
-                ` ${info.event.start.toLocaleString()}\n` +
-                ` ${info.event.extendedProps.address}`
-              );
+              
+              if (info.event.url) {
+                window.open(info.event.url, '_blank');
+              } else {
+                alert(
+                  ` ${info.event.title}\n` +
+                  ` ${formatDateVerbose(info.event.start)}\n` +
+                  ` ${info.event.extendedProps.address}`
+                );
+              }
             }
           },
           eventDidMount: function(info) {
+            if (isTouch) return; 
             const tooltip = document.createElement('div');
             tooltip.innerHTML = `
               <strong>${info.event.title}</strong><br>
