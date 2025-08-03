@@ -1,111 +1,12 @@
 [
   {
-    "name": "Pack Rush",
-    "start": "2025-08-01T17:15:00",
+    "name": "SideQuest Weekly Play (Constructed)",
+    "start": "2025-08-04T18:00:00",
     "store": {
-      "name": "Flamberg",
-      "full_address": "3 Adama Mickiewicza, Katowice, Wojew\u00F3dztwo \u015Bl\u0105skie, 40092, PL"
+      "name": "SideQuest",
+      "full_address": "13B Partyzant\u00F3w, 2, Gda\u0144sk, Wojew\u00F3dztwo pomorskie, 80-254, PL"
     },
-    "url": "https://tcg.ravensburgerplay.com/events/165895"
-  },
-  {
-    "name": "Pack Rush 1",
-    "start": "2025-08-01T17:15:00",
-    "store": {
-      "name": "Flamberg",
-      "full_address": "3 Adama Mickiewicza, Katowice, Wojew\u00F3dztwo \u015Bl\u0105skie, 40092, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/166188"
-  },
-  {
-    "name": "Set Championship S08 Reign of Jafar w Przycz\u00F3\u0142ku",
-    "start": "2025-08-02T09:30:00",
-    "store": {
-      "name": "Przycz\u00F3\u0142ek miejsce dla graczy",
-      "full_address": "16A Lwowska, Piast\u00F3w, Wojew\u00F3dztwo mazowieckie, 05-820, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/168331"
-  },
-  {
-    "name": "CHAMPIONSHIP- REIGN OF JAFAR  ( S08)",
-    "start": "2025-08-02T11:00:00",
-    "store": {
-      "name": "ALEplanszowki.pl",
-      "full_address": "82 aleja Grunwaldzka, CH Manhattan w Gda\u0144sku, Gda\u0144sk, Wojew\u00F3dztwo pomorskie, 80-244, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/159451"
-  },
-  {
-    "name": "Core Constructed Bielsko",
-    "start": "2025-08-02T11:45:00",
-    "store": {
-      "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
-      "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/160107"
-  },
-  {
-    "name": "Reign of Jafar - Set Championship Gry i Karty",
-    "start": "2025-08-02T12:00:00",
-    "store": {
-      "name": "Gry i Karty",
-      "full_address": "9 Karmelicka, Stare Miasto, Wojew\u00F3dztwo ma\u0142opolskie, 33-332, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/163179"
-  },
-  {
-    "name": "Reign of Jafar - Set Championship at Centrum MTG",
-    "start": "2025-08-02T12:00:00",
-    "store": {
-      "name": "CENTRUM MTG",
-      "full_address": "1 Maria\u0144ska, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-123, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/162234"
-  },
-  {
-    "name": "Lorcana w Gralni - Reign of Jafar - Set Championship",
-    "start": "2025-08-02T12:30:00",
-    "store": {
-      "name": "Gralnia",
-      "full_address": "Stanis\u0142awa Wi\u0119ckowskiego, 6, \u0141\u00F3d\u017A, Wojew\u00F3dztwo \u0142\u00F3dzkie, 90722, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/160602"
-  },
-  {
-    "name": "Reign of the Jafar Set Championship",
-    "start": "2025-08-02T14:00:00",
-    "store": {
-      "name": "GryPlanszowe24.pl",
-      "full_address": "8 \u015Awi\u0119tego Rocha, Building, Cz\u0119stochowa, Wojew\u00F3dztwo \u015Bl\u0105skie, 42-202, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/163538"
-  },
-  {
-    "name": "Disney Lorcana - Reign of Jafar Set Championship \u002B Dogrywka w Sk\u0142adzie Gier",
-    "start": "2025-08-03T10:30:00",
-    "store": {
-      "name": "Sk\u0142ad Gier",
-      "full_address": "27 P\u00F3\u0142wiejska, Pozna\u0144, Wojew\u00F3dztwo wielkopolskie, 61-886, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/164707"
-  },
-  {
-    "name": "Reign of Jafar Set Championship",
-    "start": "2025-08-03T11:30:00",
-    "store": {
-      "name": "Mag Planszowy",
-      "full_address": "31 Szewska, 31, Wroc\u0142aw, Wojew\u00F3dztwo dolno\u015Bl\u0105skie, 50-139, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/164005"
-  },
-  {
-    "name": "GameLord - Lorcana - Reign of Jafar - Set Championship",
-    "start": "2025-08-03T12:00:00",
-    "store": {
-      "name": "GameLord - Klub Sklep z grami",
-      "full_address": "Piotrkowska, 101, \u0141\u00F3d\u017A, Wojew\u00F3dztwo \u0142\u00F3dzkie, 90-425, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/166937"
+    "url": "https://tcg.ravensburgerplay.com/events/172625"
   },
   {
     "name": "Core Constructed Bielsko",
@@ -135,15 +36,6 @@
     "url": "https://tcg.ravensburgerplay.com/events/171536"
   },
   {
-    "name": "sobota Morning Reign of Jafar - Set Championship",
-    "start": "2025-08-09T10:00:00",
-    "store": {
-      "name": "Centrum gier Pegaz",
-      "full_address": "6 Pod Blankami, 6/3a, BYDGOSZCZ, Wojew\u00F3dztwo kujawsko-pomorskie, 85-034, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/167085"
-  },
-  {
     "name": "Lorcana Reign of Jafar Championship w Strefie MTG",
     "start": "2025-08-09T10:00:00",
     "store": {
@@ -153,13 +45,13 @@
     "url": "https://tcg.ravensburgerplay.com/events/160028"
   },
   {
-    "name": "Reign of Jafar - Set Championship w Stajni Gier",
-    "start": "2025-08-09T11:00:00",
+    "name": "sobota Morning Reign of Jafar - Set Championship",
+    "start": "2025-08-09T10:00:00",
     "store": {
-      "name": "Stajnia gier",
-      "full_address": "Hugona Ko\u0142\u0142\u0105taja, 32, Wroc\u0142aw, Wojew\u00F3dztwo dolno\u015Bl\u0105skie, 50-005 , PL"
+      "name": "Centrum gier Pegaz",
+      "full_address": "6 Pod Blankami, 6/3a, BYDGOSZCZ, Wojew\u00F3dztwo kujawsko-pomorskie, 85-034, PL"
     },
-    "url": "https://tcg.ravensburgerplay.com/events/168237"
+    "url": "https://tcg.ravensburgerplay.com/events/167085"
   },
   {
     "name": "Set Championship S08 Reign of Jafar w MagicCafe",
@@ -169,6 +61,15 @@
       "full_address": "7 Torfowa, ul. Torfowa 7, D\u0119bniki, Wojew\u00F3dztwo ma\u0142opolskie, 30-384, PL"
     },
     "url": "https://tcg.ravensburgerplay.com/events/161050"
+  },
+  {
+    "name": "Reign of Jafar - Set Championship w Stajni Gier",
+    "start": "2025-08-09T11:00:00",
+    "store": {
+      "name": "Stajnia gier",
+      "full_address": "Hugona Ko\u0142\u0142\u0105taja, 32, Wroc\u0142aw, Wojew\u00F3dztwo dolno\u015Bl\u0105skie, 50-005 , PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/168237"
   },
   {
     "name": "Core Constructed Bielsko",
@@ -187,6 +88,15 @@
       "full_address": "64 Garbary, Pozna\u0144, Wojew\u00F3dztwo wielkopolskie, 61-001, PL"
     },
     "url": "https://tcg.ravensburgerplay.com/events/168646"
+  },
+  {
+    "name": "SideQuest Reign of Jafar - Set Championship",
+    "start": "2025-08-09T16:00:00",
+    "store": {
+      "name": "SideQuest",
+      "full_address": "13B Partyzant\u00F3w, 2, Gda\u0144sk, Wojew\u00F3dztwo pomorskie, 80-254, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/172579"
   },
   {
     "name": "Reign of Jafar Championship KROLM",
