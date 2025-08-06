@@ -1,14 +1,5 @@
 [
   {
-    "name": "SideQuest Weekly Play (Constructed)",
-    "start": "2025-08-04T18:00:00",
-    "store": {
-      "name": "SideQuest",
-      "full_address": "13B Partyzant\u00F3w, 2, Gda\u0144sk, Wojew\u00F3dztwo pomorskie, 80-254, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/172625"
-  },
-  {
     "name": "Core Constructed Bielsko",
     "start": "2025-08-06T17:15:00",
     "store": {
@@ -16,6 +7,15 @@
       "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
     },
     "url": "https://tcg.ravensburgerplay.com/events/160055"
+  },
+  {
+    "name": "Weekly Play w Xjoy",
+    "start": "2025-08-06T18:00:00",
+    "store": {
+      "name": "Xjoy.pl",
+      "full_address": "\u015Awiatowida, 58 lok u7, Warszawa, Wojew\u00F3dztwo mazowieckie, 03-144, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/174028"
   },
   {
     "name": "Turniej Disney Lorcana w \u0141odzi! Weekly Play",
@@ -91,7 +91,7 @@
   },
   {
     "name": "SideQuest Reign of Jafar - Set Championship",
-    "start": "2025-08-09T16:00:00",
+    "start": "2025-08-09T14:00:00",
     "store": {
       "name": "SideQuest",
       "full_address": "13B Partyzant\u00F3w, 2, Gda\u0144sk, Wojew\u00F3dztwo pomorskie, 80-254, PL"
