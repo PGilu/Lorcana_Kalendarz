@@ -1,159 +1,6 @@
 [
   {
     "name": "Core Constructed Bielsko",
-    "start": "2025-08-06T17:15:00",
-    "store": {
-      "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
-      "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/160055"
-  },
-  {
-    "name": "Weekly Play w Xjoy",
-    "start": "2025-08-06T18:00:00",
-    "store": {
-      "name": "Xjoy.pl",
-      "full_address": "\u015Awiatowida, 58 lok u7, Warszawa, Wojew\u00F3dztwo mazowieckie, 03-144, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/174028"
-  },
-  {
-    "name": "Turniej Disney Lorcana w \u0141odzi! Weekly Play",
-    "start": "2025-08-06T18:30:00",
-    "store": {
-      "name": "BaseStack",
-      "full_address": "45, Rewolucji, \u0141\u00F3d\u017A, Wojew\u00F3dztwo \u0142\u00F3dzkie, 90-215, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/166643"
-  },
-  {
-    "name": "Strefa MTG - Lorcana Constructed 07.08 o g. 18:00",
-    "start": "2025-08-07T18:00:00",
-    "store": {
-      "name": "Strefa MTG",
-      "full_address": "30a Polna, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-635, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/171536"
-  },
-  {
-    "name": "Lorcana Reign of Jafar Championship w Strefie MTG",
-    "start": "2025-08-09T10:00:00",
-    "store": {
-      "name": "Strefa MTG",
-      "full_address": "30a Polna, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-635, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/160028"
-  },
-  {
-    "name": "sobota Morning Reign of Jafar - Set Championship",
-    "start": "2025-08-09T10:00:00",
-    "store": {
-      "name": "Centrum gier Pegaz",
-      "full_address": "6 Pod Blankami, 6/3a, BYDGOSZCZ, Wojew\u00F3dztwo kujawsko-pomorskie, 85-034, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/167085"
-  },
-  {
-    "name": "Set Championship S08 Reign of Jafar w MagicCafe",
-    "start": "2025-08-09T11:00:00",
-    "store": {
-      "name": "Magic Cafe",
-      "full_address": "7 Torfowa, ul. Torfowa 7, D\u0119bniki, Wojew\u00F3dztwo ma\u0142opolskie, 30-384, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/161050"
-  },
-  {
-    "name": "Reign of Jafar - Set Championship w Stajni Gier",
-    "start": "2025-08-09T11:00:00",
-    "store": {
-      "name": "Stajnia gier",
-      "full_address": "Hugona Ko\u0142\u0142\u0105taja, 32, Wroc\u0142aw, Wojew\u00F3dztwo dolno\u015Bl\u0105skie, 50-005 , PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/168237"
-  },
-  {
-    "name": "Core Constructed Bielsko",
-    "start": "2025-08-09T11:45:00",
-    "store": {
-      "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
-      "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/160109"
-  },
-  {
-    "name": "Reign of Jafar - Set Championship - 09/08/2025 - 12:00 - Wilczek / Pozna\u0144",
-    "start": "2025-08-09T12:00:00",
-    "store": {
-      "name": "Wilczek Sklep",
-      "full_address": "64 Garbary, Pozna\u0144, Wojew\u00F3dztwo wielkopolskie, 61-001, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/168646"
-  },
-  {
-    "name": "SideQuest Reign of Jafar - Set Championship",
-    "start": "2025-08-09T14:00:00",
-    "store": {
-      "name": "SideQuest",
-      "full_address": "13B Partyzant\u00F3w, 2, Gda\u0144sk, Wojew\u00F3dztwo pomorskie, 80-254, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/172579"
-  },
-  {
-    "name": "Reign of Jafar Championship KROLM",
-    "start": "2025-08-10T10:00:00",
-    "store": {
-      "name": "KROLM",
-      "full_address": "7 Stary Rynek Oliwski, Gda\u0144sk, Wojew\u00F3dztwo pomorskie, 80-324, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/160414"
-  },
-  {
-    "name": "niedziela Morning Reign of Jafar - Set Championship",
-    "start": "2025-08-10T10:30:00",
-    "store": {
-      "name": "Chaos Games",
-      "full_address": "11 Listopada, 10, Pi\u0142a, Wojew\u00F3dztwo wielkopolskie, 64-920, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/165863"
-  },
-  {
-    "name": "Reign of Jafar - Set Championship w Merfolku",
-    "start": "2025-08-10T12:00:00",
-    "store": {
-      "name": "Merfolk",
-      "full_address": "44 Tadeusza Ko\u015Bciuszki, Pruszk\u00F3w, Wojew\u00F3dztwo mazowieckie, 05-800, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/168352"
-  },
-  {
-    "name": "Core Constructed Bielsko",
-    "start": "2025-08-13T17:15:00",
-    "store": {
-      "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
-      "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/160067"
-  },
-  {
-    "name": "Turniej Disney Lorcana w \u0141odzi! Weekly Play",
-    "start": "2025-08-13T18:00:00",
-    "store": {
-      "name": "BaseStack",
-      "full_address": "45, Rewolucji, \u0141\u00F3d\u017A, Wojew\u00F3dztwo \u0142\u00F3dzkie, 90-215, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/169344"
-  },
-  {
-    "name": "Strefa MTG - Lorcana Constructed 14.08 o g. 18:00",
-    "start": "2025-08-14T18:00:00",
-    "store": {
-      "name": "Strefa MTG",
-      "full_address": "30a Polna, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-635, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/171537"
-  },
-  {
-    "name": "Core Constructed Bielsko",
     "start": "2025-08-16T11:45:00",
     "store": {
       "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
@@ -169,6 +16,15 @@
       "full_address": "30a Polna, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-635, PL"
     },
     "url": "https://tcg.ravensburgerplay.com/events/171541"
+  },
+  {
+    "name": "Pan Mysza Afternoon Weekly Play (Constructed)",
+    "start": "2025-08-19T18:05:00",
+    "store": {
+      "name": "Pan Mysza",
+      "full_address": "Tkacka 13U, Szczecin, Wojew\u00F3dztwo zachodniopomorskie, 71, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/170825"
   },
   {
     "name": "Core Constructed Bielsko",
@@ -189,7 +45,7 @@
     "url": "https://tcg.ravensburgerplay.com/events/169345"
   },
   {
-    "name": "Strefa MTG - Lorcana Draft 21.07 o g. 18:00",
+    "name": "Strefa MTG - Lorcana Draft 21.08 o g. 18:00",
     "start": "2025-08-21T18:00:00",
     "store": {
       "name": "Strefa MTG",
@@ -214,6 +70,15 @@
       "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
     },
     "url": "https://tcg.ravensburgerplay.com/events/160114"
+  },
+  {
+    "name": "Pan Mysza Evening Weekly Play (Constructed)",
+    "start": "2025-08-26T18:05:00",
+    "store": {
+      "name": "Pan Mysza",
+      "full_address": "Tkacka 13U, Szczecin, Wojew\u00F3dztwo zachodniopomorskie, 71, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/170826"
   },
   {
     "name": "Core Constructed Bielsko",
@@ -270,6 +135,15 @@
     "url": "https://tcg.ravensburgerplay.com/events/160115"
   },
   {
+    "name": "Lorcana i Gralnia: Fabled Prerelease (Sealed)",
+    "start": "2025-08-30T12:30:00",
+    "store": {
+      "name": "Gralnia",
+      "full_address": "Stanis\u0142awa Wi\u0119ckowskiego, 6, \u0141\u00F3d\u017A, Wojew\u00F3dztwo \u0142\u00F3dzkie, 90722, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/176314"
+  },
+  {
     "name": "Prerelease Fabled #3 (Sealed)",
     "start": "2025-09-03T11:45:00",
     "store": {
@@ -277,5 +151,14 @@
       "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
     },
     "url": "https://tcg.ravensburgerplay.com/events/166925"
+  },
+  {
+    "name": "Disney Lorcana Pre-release \u0141\u00D3D\u0179! Sealed - Fabled",
+    "start": "2025-09-03T18:00:00",
+    "store": {
+      "name": "BaseStack",
+      "full_address": "45, Rewolucji, \u0141\u00F3d\u017A, Wojew\u00F3dztwo \u0142\u00F3dzkie, 90-215, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/174225"
   }
 ]
