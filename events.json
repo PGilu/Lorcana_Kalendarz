@@ -1,104 +1,5 @@
 [
   {
-    "name": "Core Constructed Bielsko",
-    "start": "2025-08-16T11:45:00",
-    "store": {
-      "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
-      "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/160113"
-  },
-  {
-    "name": "Strefa MTG - Lorcana Chaos Draft 16.08 o g. 18:00",
-    "start": "2025-08-16T14:30:00",
-    "store": {
-      "name": "Strefa MTG",
-      "full_address": "30a Polna, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-635, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/171541"
-  },
-  {
-    "name": "Pan Mysza Afternoon Weekly Play (Constructed)",
-    "start": "2025-08-19T18:05:00",
-    "store": {
-      "name": "Pan Mysza",
-      "full_address": "Tkacka 13U, Szczecin, Wojew\u00F3dztwo zachodniopomorskie, 71, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/170825"
-  },
-  {
-    "name": "Core Constructed Bielsko",
-    "start": "2025-08-20T17:15:00",
-    "store": {
-      "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
-      "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/160068"
-  },
-  {
-    "name": "Turniej Disney Lorcana w \u0141odzi! Weekly Play",
-    "start": "2025-08-20T18:00:00",
-    "store": {
-      "name": "BaseStack",
-      "full_address": "45, Rewolucji, \u0141\u00F3d\u017A, Wojew\u00F3dztwo \u0142\u00F3dzkie, 90-215, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/169345"
-  },
-  {
-    "name": "Strefa MTG - Lorcana Draft 21.08 o g. 18:00",
-    "start": "2025-08-21T18:00:00",
-    "store": {
-      "name": "Strefa MTG",
-      "full_address": "30a Polna, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-635, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/171539"
-  },
-  {
-    "name": "Summer End (Chaos draft)",
-    "start": "2025-08-22T05:15:00",
-    "store": {
-      "name": "Flamberg",
-      "full_address": "3 Adama Mickiewicza, Katowice, Wojew\u00F3dztwo \u015Bl\u0105skie, 40092, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/169726"
-  },
-  {
-    "name": "Core Constructed Bielsko",
-    "start": "2025-08-23T11:45:00",
-    "store": {
-      "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
-      "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/160114"
-  },
-  {
-    "name": "Pan Mysza Evening Weekly Play (Constructed)",
-    "start": "2025-08-26T18:05:00",
-    "store": {
-      "name": "Pan Mysza",
-      "full_address": "Tkacka 13U, Szczecin, Wojew\u00F3dztwo zachodniopomorskie, 71, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/170826"
-  },
-  {
-    "name": "Core Constructed Bielsko",
-    "start": "2025-08-27T17:15:00",
-    "store": {
-      "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
-      "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/160069"
-  },
-  {
-    "name": "Turniej Talii Tematycznych Disney Lorcana w \u0141odzi!",
-    "start": "2025-08-27T18:00:00",
-    "store": {
-      "name": "BaseStack",
-      "full_address": "45, Rewolucji, \u0141\u00F3d\u017A, Wojew\u00F3dztwo \u0142\u00F3dzkie, 90-215, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/169347"
-  },
-  {
     "name": "Strefa MTG - Lorcana Constructed 28.08 o g. 18:00",
     "start": "2025-08-28T18:00:00",
     "store": {
@@ -106,6 +7,24 @@
       "full_address": "30a Polna, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-635, PL"
     },
     "url": "https://tcg.ravensburgerplay.com/events/171540"
+  },
+  {
+    "name": "Liga czwartkowa 28.08",
+    "start": "2025-08-28T18:00:00",
+    "store": {
+      "name": "Gry i Karty",
+      "full_address": "9 Karmelicka, Stare Miasto, Wojew\u00F3dztwo ma\u0142opolskie, 33-332, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/181083"
+  },
+  {
+    "name": "pi\u0105tek Morning Fabled - Prerelease (Sealed)",
+    "start": "2025-08-29T06:00:00",
+    "store": {
+      "name": "CANIS LUPUS",
+      "full_address": "72 Boles\u0142awa Krzywoustego, KINEPOLIS, Pozna\u0144, Wojew\u00F3dztwo wielkopolskie, 61-144, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/180690"
   },
   {
     "name": "Prerelease Fabled #1 (Sealed)",
@@ -117,13 +36,85 @@
     "url": "https://tcg.ravensburgerplay.com/events/166923"
   },
   {
-    "name": "Prerelease Fabled #2 (Sealed)",
-    "start": "2025-08-30T11:45:00",
+    "name": "Fabled PREMIEROWY SEALED w ALEplanszowki",
+    "start": "2025-08-29T17:00:00",
     "store": {
-      "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
-      "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
+      "name": "ALEplanszowki.pl",
+      "full_address": "82 aleja Grunwaldzka, CH Manhattan w Gda\u0144sku, Gda\u0144sk, Wojew\u00F3dztwo pomorskie, 80-244, PL"
     },
-    "url": "https://tcg.ravensburgerplay.com/events/166924"
+    "url": "https://tcg.ravensburgerplay.com/events/178145"
+  },
+  {
+    "name": "Prerelease Fabled Pi\u0105tek",
+    "start": "2025-08-29T17:00:00",
+    "store": {
+      "name": "Mag Planszowy",
+      "full_address": "31 Szewska, 31, Wroc\u0142aw, Wojew\u00F3dztwo dolno\u015Bl\u0105skie, 50-139, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/181496"
+  },
+  {
+    "name": "Fabled - Prerelease (Pack Rush)",
+    "start": "2025-08-29T17:15:00",
+    "store": {
+      "name": "Flamberg",
+      "full_address": "3 Adama Mickiewicza, Katowice, Wojew\u00F3dztwo \u015Bl\u0105skie, 40092, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/180755"
+  },
+  {
+    "name": "Mr. Puggy Fabled Prerelease",
+    "start": "2025-08-29T17:30:00",
+    "store": {
+      "name": "Mr. Puggy",
+      "full_address": "4, Nefrytowa, Krak\u00F3w, Wojew\u00F3dztwo ma\u0142opolskie, 30-798, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/181653"
+  },
+  {
+    "name": "pi\u0105tek Evening Prerelease (Sealed)",
+    "start": "2025-08-29T18:00:00",
+    "store": {
+      "name": "Magic Cafe",
+      "full_address": "7 Torfowa, ul. Torfowa 7, D\u0119bniki, Wojew\u00F3dztwo ma\u0142opolskie, 30-384, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/178398"
+  },
+  {
+    "name": "Sealed Premierowy Fabled S09",
+    "start": "2025-08-30T09:15:00",
+    "store": {
+      "name": "Przycz\u00F3\u0142ek miejsce dla graczy",
+      "full_address": "16A Lwowska, Piast\u00F3w, Wojew\u00F3dztwo mazowieckie, 05-820, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/181109"
+  },
+  {
+    "name": "Lorcana Draft Premierowy Fabled 30.08 o g. 10:00 - Strefa MTG",
+    "start": "2025-08-30T10:00:00",
+    "store": {
+      "name": "Strefa MTG",
+      "full_address": "30a Polna, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-635, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/178113"
+  },
+  {
+    "name": "Fabled - Prerelease (Sealed)",
+    "start": "2025-08-30T10:30:00",
+    "store": {
+      "name": "Flamberg",
+      "full_address": "3 Adama Mickiewicza, Katowice, Wojew\u00F3dztwo \u015Bl\u0105skie, 40092, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/180759"
+  },
+  {
+    "name": "Fabled Set9 Pack Rush",
+    "start": "2025-08-30T11:00:00",
+    "store": {
+      "name": "TCG LOVE",
+      "full_address": "Stanis\u0142awa Zbrowskiego 114/lok u4, 26-615 Radom, Polska"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/181537"
   },
   {
     "name": "Core Constructed Bielsko",
@@ -135,13 +126,103 @@
     "url": "https://tcg.ravensburgerplay.com/events/160115"
   },
   {
+    "name": "Prerelease Fabled #2 (Sealed)",
+    "start": "2025-08-30T11:45:00",
+    "store": {
+      "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
+      "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/166924"
+  },
+  {
+    "name": "Disney Lorcana Fabled Prerelease w BattleStash",
+    "start": "2025-08-30T12:00:00",
+    "store": {
+      "name": "BattleStash",
+      "full_address": "Ryska 3/U7, 15-008 Bia\u0142ystok, Polska"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/179238"
+  },
+  {
+    "name": "Fabled Prerelease na Konwencie Lustro",
+    "start": "2025-08-30T13:00:00",
+    "store": {
+      "name": "CENTRUM MTG",
+      "full_address": "1 Maria\u0144ska, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-123, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/178185"
+  },
+  {
+    "name": "Lorcana Sealed Premierowy Fabled 30.08 o g. 14:30 - Strefa MTG",
+    "start": "2025-08-30T14:30:00",
+    "store": {
+      "name": "Strefa MTG",
+      "full_address": "30a Polna, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-635, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/178117"
+  },
+  {
+    "name": "Fabled Prerelease Two-Headed Dragon(Sealed)",
+    "start": "2025-08-30T14:30:00",
+    "store": {
+      "name": "Flamberg",
+      "full_address": "3 Adama Mickiewicza, Katowice, Wojew\u00F3dztwo \u015Bl\u0105skie, 40092, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/180761"
+  },
+  {
+    "name": "Prerelease Fabled Sobota",
+    "start": "2025-08-30T15:00:00",
+    "store": {
+      "name": "Mag Planszowy",
+      "full_address": "31 Szewska, 31, Wroc\u0142aw, Wojew\u00F3dztwo dolno\u015Bl\u0105skie, 50-139, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/181498"
+  },
+  {
     "name": "Lorcana i Gralnia: Fabled Prerelease (Sealed)",
-    "start": "2025-08-30T12:30:00",
+    "start": "2025-08-30T16:30:00",
     "store": {
       "name": "Gralnia",
       "full_address": "Stanis\u0142awa Wi\u0119ckowskiego, 6, \u0141\u00F3d\u017A, Wojew\u00F3dztwo \u0142\u00F3dzkie, 90722, PL"
     },
     "url": "https://tcg.ravensburgerplay.com/events/176314"
+  },
+  {
+    "name": "Fabled Prerelease w GiK - 31.08",
+    "start": "2025-08-31T12:00:00",
+    "store": {
+      "name": "Gry i Karty",
+      "full_address": "9 Karmelicka, Stare Miasto, Wojew\u00F3dztwo ma\u0142opolskie, 33-332, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/181084"
+  },
+  {
+    "name": "SideQuest Fabled Prerelease (Sealed)",
+    "start": "2025-09-01T18:00:00",
+    "store": {
+      "name": "SideQuest",
+      "full_address": "13B Partyzant\u00F3w, 2, Gda\u0144sk, Wojew\u00F3dztwo pomorskie, 80-254, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/181372"
+  },
+  {
+    "name": "Disney Lorcana TCG - Sealed - Fabled!",
+    "start": "2025-09-02T17:00:00",
+    "store": {
+      "name": "GryPlanszowe24.pl",
+      "full_address": "8 \u015Awi\u0119tego Rocha, Building, Cz\u0119stochowa, Wojew\u00F3dztwo \u015Bl\u0105skie, 42-202, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/180643"
+  },
+  {
+    "name": "Disney Lorcana Pre-realese Fabled KROLM",
+    "start": "2025-09-02T17:30:00",
+    "store": {
+      "name": "KROLM",
+      "full_address": "7 Stary Rynek Oliwski, Gda\u0144sk, Wojew\u00F3dztwo pomorskie, 80-324, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/181142"
   },
   {
     "name": "Prerelease Fabled #3 (Sealed)",
@@ -153,6 +234,24 @@
     "url": "https://tcg.ravensburgerplay.com/events/166925"
   },
   {
+    "name": "Lorcana - Fabled Prerelease Event",
+    "start": "2025-09-03T17:00:00",
+    "store": {
+      "name": "Redraft",
+      "full_address": "Kamienna, 2-Jul, Katowice, Wojew\u00F3dztwo \u015Bl\u0105skie, 40-067, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/181111"
+  },
+  {
+    "name": "Prerelease Fabled w Krainie Goblin\u00F3w",
+    "start": "2025-09-03T17:00:00",
+    "store": {
+      "name": "Kraina Goblin\u00F3w",
+      "full_address": "18 Cichociemnych, 1 floor, Gliwice, Wojew\u00F3dztwo \u015Bl\u0105skie, 44-122, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/181568"
+  },
+  {
     "name": "Disney Lorcana Pre-release \u0141\u00D3D\u0179! Sealed - Fabled",
     "start": "2025-09-03T18:00:00",
     "store": {
@@ -160,5 +259,77 @@
       "full_address": "45, Rewolucji, \u0141\u00F3d\u017A, Wojew\u00F3dztwo \u0142\u00F3dzkie, 90-215, PL"
     },
     "url": "https://tcg.ravensburgerplay.com/events/174225"
+  },
+  {
+    "name": "czwartek Morning Prerelease (Sealed)",
+    "start": "2025-09-04T06:00:00",
+    "store": {
+      "name": "CANIS LUPUS",
+      "full_address": "72 Boles\u0142awa Krzywoustego, KINEPOLIS, Pozna\u0144, Wojew\u00F3dztwo wielkopolskie, 61-144, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/180692"
+  },
+  {
+    "name": "Lorcana Draft Premierowy Fabled 04.09 o g. 18:00 - Strefa MTG",
+    "start": "2025-09-04T18:00:00",
+    "store": {
+      "name": "Strefa MTG",
+      "full_address": "30a Polna, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-635, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/178115"
+  },
+  {
+    "name": "Flamberg Pack Rush PCF09",
+    "start": "2025-09-05T17:15:00",
+    "store": {
+      "name": "Flamberg",
+      "full_address": "3 Adama Mickiewicza, Katowice, Wojew\u00F3dztwo \u015Bl\u0105skie, 40092, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/180764"
+  },
+  {
+    "name": "ICF09 - Infinity Constructed - w TCG LOVE",
+    "start": "2025-09-06T11:15:00",
+    "store": {
+      "name": "TCG LOVE",
+      "full_address": "Stanis\u0142awa Zbrowskiego 114/lok u4, 26-615 Radom, Polska"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/181534"
+  },
+  {
+    "name": "Lorcana - DCF09 - Draft 4",
+    "start": "2025-09-10T17:00:00",
+    "store": {
+      "name": "Redraft",
+      "full_address": "Kamienna, 2-Jul, Katowice, Wojew\u00F3dztwo \u015Bl\u0105skie, 40-067, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/181127"
+  },
+  {
+    "name": "Lorcana - ICF09 - Infinity Constructed",
+    "start": "2025-09-17T17:00:00",
+    "store": {
+      "name": "Redraft",
+      "full_address": "Kamienna, 2-Jul, Katowice, Wojew\u00F3dztwo \u015Bl\u0105skie, 40-067, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/181130"
+  },
+  {
+    "name": "Lorcana - CCF09 - Core Constructed",
+    "start": "2025-09-24T17:00:00",
+    "store": {
+      "name": "Redraft",
+      "full_address": "Kamienna, 2-Jul, Katowice, Wojew\u00F3dztwo \u015Bl\u0105skie, 40-067, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/181119"
+  },
+  {
+    "name": "Lorcana - DCF09 - Draft 4",
+    "start": "2025-10-01T17:00:00",
+    "store": {
+      "name": "Redraft",
+      "full_address": "Kamienna, 2-Jul, Katowice, Wojew\u00F3dztwo \u015Bl\u0105skie, 40-067, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/181132"
   }
 ]
