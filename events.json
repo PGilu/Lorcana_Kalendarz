@@ -1,68 +1,5 @@
 [
   {
-    "name": "Lorcana i Gralnia - Turniej DCF09 - Fabled Draft",
-    "start": "2025-09-09T17:00:00",
-    "store": {
-      "name": "Gralnia",
-      "full_address": "Stanis\u0142awa Wi\u0119ckowskiego, 6, \u0141\u00F3d\u017A, Wojew\u00F3dztwo \u0142\u00F3dzkie, 90722, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/184745"
-  },
-  {
-    "name": "Disney Lorcana TCG - Weekly Play Fabled #1",
-    "start": "2025-09-09T17:00:00",
-    "store": {
-      "name": "GryPlanszowe24.pl",
-      "full_address": "8 \u015Awi\u0119tego Rocha, Building, Cz\u0119stochowa, Wojew\u00F3dztwo \u015Bl\u0105skie, 42-202, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/188883"
-  },
-  {
-    "name": "Turniej DCF09 Casual Friendly DRAFT",
-    "start": "2025-09-10T05:15:00",
-    "store": {
-      "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
-      "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/182593"
-  },
-  {
-    "name": "Lorcana - DCF09 - Draft 4",
-    "start": "2025-09-10T17:00:00",
-    "store": {
-      "name": "Redraft",
-      "full_address": "7 Kamienna, 2, Katowice, Wojew\u00F3dztwo \u015Bl\u0105skie, 40-067, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/181127"
-  },
-  {
-    "name": "Draft \u0022DCF09\u0022",
-    "start": "2025-09-10T17:00:00",
-    "store": {
-      "name": "Kraina Goblin\u00F3w",
-      "full_address": "18 Cichociemnych, 1 floor, Gliwice, Wojew\u00F3dztwo \u015Bl\u0105skie, 44-122, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/184806"
-  },
-  {
-    "name": "Turniej Disney Lorcana \u0141\u00D3D\u0179! DCF09 Fabled",
-    "start": "2025-09-10T18:00:00",
-    "store": {
-      "name": "BaseStack",
-      "full_address": "45, Rewolucji, \u0141\u00F3d\u017A, Wojew\u00F3dztwo \u0142\u00F3dzkie, 90-215, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/182656"
-  },
-  {
-    "name": "DCF09 - Jafar Chaos Draft w Sk\u0142adzie Gier",
-    "start": "2025-09-10T18:00:00",
-    "store": {
-      "name": "Sk\u0142ad Gier",
-      "full_address": "27 P\u00F3\u0142wiejska, Pozna\u0144, Wojew\u00F3dztwo wielkopolskie, 61-886, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/184186"
-  },
-  {
     "name": "DCF09 - Lorcana Fabled Draft",
     "start": "2025-09-11T17:00:00",
     "store": {
@@ -189,6 +126,15 @@
     "url": "https://tcg.ravensburgerplay.com/events/185169"
   },
   {
+    "name": "Lorcana i Gralnia - Turniej ICF09 - Infinite Constructed",
+    "start": "2025-09-16T17:30:00",
+    "store": {
+      "name": "Gralnia",
+      "full_address": "Stanis\u0142awa Wi\u0119ckowskiego, 6, \u0141\u00F3d\u017A, Wojew\u00F3dztwo \u0142\u00F3dzkie, 90722, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/189685"
+  },
+  {
     "name": "Lorcana - ICF09 - Infinity Constructed",
     "start": "2025-09-17T17:00:00",
     "store": {
@@ -297,15 +243,6 @@
     "url": "https://tcg.ravensburgerplay.com/events/185179"
   },
   {
-    "name": "Disney Lorcana TCG - Turniej Core Constructed",
-    "start": "2025-09-24T05:15:00",
-    "store": {
-      "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
-      "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/182584"
-  },
-  {
     "name": "Lorcana - CCF09 - Core Constructed",
     "start": "2025-09-24T17:00:00",
     "store": {
@@ -313,6 +250,15 @@
       "full_address": "7 Kamienna, 2, Katowice, Wojew\u00F3dztwo \u015Bl\u0105skie, 40-067, PL"
     },
     "url": "https://tcg.ravensburgerplay.com/events/181119"
+  },
+  {
+    "name": "Disney Lorcana TCG - Turniej Core Constructed",
+    "start": "2025-09-24T17:15:00",
+    "store": {
+      "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
+      "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/182584"
   },
   {
     "name": "Turniej Disney Lorcana \u0141\u00D3D\u0179! CCF09 Fabled",
@@ -378,6 +324,15 @@
     "url": "https://tcg.ravensburgerplay.com/events/182626"
   },
   {
+    "name": "Lorcana i Gralnia - Turniej DCF09 - Jafar Chaos Draft",
+    "start": "2025-09-27T12:30:00",
+    "store": {
+      "name": "Gralnia",
+      "full_address": "Stanis\u0142awa Wi\u0119ckowskiego, 6, \u0141\u00F3d\u017A, Wojew\u00F3dztwo \u0142\u00F3dzkie, 90722, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/189725"
+  },
+  {
     "name": "Turniej Disney Lorcana DCF09",
     "start": "2025-09-29T18:00:00",
     "store": {
@@ -396,13 +351,13 @@
     "url": "https://tcg.ravensburgerplay.com/events/185217"
   },
   {
-    "name": "Disney Lorcana TCG - Turniej Core Constructed",
-    "start": "2025-10-01T05:15:00",
+    "name": "Lorcana i Gralnia - Turniej CCF09 - Core Constructed",
+    "start": "2025-09-30T17:30:00",
     "store": {
-      "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
-      "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
+      "name": "Gralnia",
+      "full_address": "Stanis\u0142awa Wi\u0119ckowskiego, 6, \u0141\u00F3d\u017A, Wojew\u00F3dztwo \u0142\u00F3dzkie, 90722, PL"
     },
-    "url": "https://tcg.ravensburgerplay.com/events/182585"
+    "url": "https://tcg.ravensburgerplay.com/events/189732"
   },
   {
     "name": "Lorcana - DCF09 - Draft 4",
@@ -412,6 +367,15 @@
       "full_address": "7 Kamienna, 2, Katowice, Wojew\u00F3dztwo \u015Bl\u0105skie, 40-067, PL"
     },
     "url": "https://tcg.ravensburgerplay.com/events/181132"
+  },
+  {
+    "name": "Disney Lorcana TCG - Turniej Core Constructed",
+    "start": "2025-10-01T17:15:00",
+    "store": {
+      "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
+      "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/182585"
   },
   {
     "name": "CCF09 - Core Constructed w Sk\u0142adzie Gier",
