@@ -1,59 +1,5 @@
 [
   {
-    "name": "Turniej Disney Lorcana w \u0141odzi! Weekly Play",
-    "start": "2025-12-17T18:00:00",
-    "store": {
-      "name": "BaseStack",
-      "full_address": "45, Rewolucji, \u0141\u00F3d\u017A, Wojew\u00F3dztwo \u0142\u00F3dzkie, 90-215, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/290158"
-  },
-  {
-    "name": "Spotkanie Ligowe w Metropolii",
-    "start": "2025-12-18T17:00:00",
-    "store": {
-      "name": "ALEplanszowki- Metropolia",
-      "full_address": "4, Jana Kili\u0144skiego, Gda\u0144sk, Wojew\u00F3dztwo pomorskie, 80, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/279905"
-  },
-  {
-    "name": "Strefa MTG - Lorcana - Constructed - 18.12 - 18:00",
-    "start": "2025-12-18T18:00:00",
-    "store": {
-      "name": "Strefa MTG",
-      "full_address": "30a Polna, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-635, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/279938"
-  },
-  {
-    "name": "Elsa Gift Box Sealed",
-    "start": "2025-12-19T17:15:00",
-    "store": {
-      "name": "Flamberg",
-      "full_address": "3 Adama Mickiewicza, Katowice, Wojew\u00F3dztwo \u015Bl\u0105skie, 40092, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/303984"
-  },
-  {
-    "name": "Turniej Disney Lorcana Core Constructed",
-    "start": "2025-12-20T11:45:00",
-    "store": {
-      "name": "Centrum Hobbystyczne \u0022Strefa\u0022",
-      "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/266963"
-  },
-  {
-    "name": "Disney Lorcana cotygodniowe granie w Krolmie",
-    "start": "2025-12-23T17:30:00",
-    "store": {
-      "name": "KROLM",
-      "full_address": "7 Stary Rynek Oliwski, Gda\u0144sk, Wojew\u00F3dztwo pomorskie, 80-324, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/281189"
-  },
-  {
     "name": "Turniej Disney Lorcana Core Constructed",
     "start": "2025-12-27T11:45:00",
     "store": {
@@ -61,6 +7,15 @@
       "full_address": "Gazownicza, 21A, Bielsko-Bia\u0142a, Wojew\u00F3dztwo \u015Bl\u0105skie, 43-300, PL"
     },
     "url": "https://tcg.ravensburgerplay.com/events/266970"
+  },
+  {
+    "name": "Pan Mysza Lorcana Weekly Play",
+    "start": "2025-12-30T18:00:00",
+    "store": {
+      "name": "Pan Mysza",
+      "full_address": "Tkacka 13U, Szczecin, Wojew\u00F3dztwo zachodniopomorskie, 71, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/312631"
   },
   {
     "name": "Turniej Disney Lorcana Core Constructed",
@@ -124,6 +79,15 @@
       "full_address": "11 Listopada, 10, Pi\u0142a, Wojew\u00F3dztwo wielkopolskie, 64-920, PL"
     },
     "url": "https://tcg.ravensburgerplay.com/events/296235"
+  },
+  {
+    "name": "Strefa MTG - Lorcana - Constructed - 08.01 - 18:00",
+    "start": "2026-01-08T18:00:00",
+    "store": {
+      "name": "Strefa MTG",
+      "full_address": "30a Polna, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-635, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/314239"
   },
   {
     "name": "Whispers in the Well Championship",
@@ -207,6 +171,24 @@
     "url": "https://tcg.ravensburgerplay.com/events/280017"
   },
   {
+    "name": "niedziela Afternoon Whispers in the Well - Set Championship",
+    "start": "2026-01-11T12:00:00",
+    "store": {
+      "name": "TCG TRENER TORU\u0143",
+      "full_address": "133F, Szosa Lubicka, Toru\u0144, Wojew\u00F3dztwo kujawsko-pomorskie, 87-100, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/310589"
+  },
+  {
+    "name": "Strefa MTG - Lorcana - Constructed - 15.01 - 18:00",
+    "start": "2026-01-15T18:00:00",
+    "store": {
+      "name": "Strefa MTG",
+      "full_address": "30a Polna, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-635, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/314248"
+  },
+  {
     "name": "Turniej Set Championship 10 w Pegazie",
     "start": "2026-01-17T10:00:00",
     "store": {
@@ -214,15 +196,6 @@
       "full_address": "6 Pod Blankami, 6/3a, BYDGOSZCZ, Wojew\u00F3dztwo kujawsko-pomorskie, 85-034, PL"
     },
     "url": "https://tcg.ravensburgerplay.com/events/281523"
-  },
-  {
-    "name": "\u015Awiat Kart - Whispers in the Well - Set Championship",
-    "start": "2026-01-17T10:00:00",
-    "store": {
-      "name": "\u015Awiat Kart Kolekcjonerskich",
-      "full_address": "7, Politechniczna, Gda\u0144sk, Wojew\u00F3dztwo pomorskie, 80-238, PL"
-    },
-    "url": "https://tcg.ravensburgerplay.com/events/286298"
   },
   {
     "name": "Lorcana Set Championship S10",
@@ -306,6 +279,24 @@
     "url": "https://tcg.ravensburgerplay.com/events/288512"
   },
   {
+    "name": "Strefa MTG - Lorcana - Constructed - 22.01 - 18:00",
+    "start": "2026-01-22T18:00:00",
+    "store": {
+      "name": "Strefa MTG",
+      "full_address": "30a Polna, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-635, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/314252"
+  },
+  {
+    "name": "\u015Awiat Kart - Whispers in the Well - Set Championship",
+    "start": "2026-01-24T10:00:00",
+    "store": {
+      "name": "\u015Awiat Kart Kolekcjonerskich",
+      "full_address": "7, Politechniczna, Gda\u0144sk, Wojew\u00F3dztwo pomorskie, 80-238, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/286298"
+  },
+  {
     "name": "Morning Whispers in the Well - Set Championship",
     "start": "2026-01-24T10:00:00",
     "store": {
@@ -376,5 +367,14 @@
       "full_address": "30a Polna, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-635, PL"
     },
     "url": "https://tcg.ravensburgerplay.com/events/283008"
+  },
+  {
+    "name": "Strefa MTG - Lorcana - Constructed - 29.01 - 18:00",
+    "start": "2026-01-29T15:30:00",
+    "store": {
+      "name": "Strefa MTG",
+      "full_address": "30a Polna, Warszawa, Wojew\u00F3dztwo mazowieckie, 00-635, PL"
+    },
+    "url": "https://tcg.ravensburgerplay.com/events/314255"
   }
 ]
